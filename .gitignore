@@ -1,7 +1,6 @@
 .DS_Store
 __pycache__
 dogImages/
-appTestImages/
 lfw/
 saved_models/
 .ipynb_checkpoints/
